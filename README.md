@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Alirazasadaq6! I’m a passionate software engineer with a background in web development, digital marketing, and Android development.
-- 👀 I’m interested in developing innovative solutions in tech and am particularly excited about opportunities in web applications and smart technology.
+- 👋 Hi, I’m @AliRaza! I’m a passionate software engineer with a background in web development, digital marketing, and Android development.
+- 👀 I’m interested in developing innovative solutions in tech and am particularly excited about opportunities in Android development and smart technology.
 - 🌱 I’m currently learning advanced computing, UX design, and IT project and programs as part of my MSc at the University of Central Lancashire. I’m also improving my skills in C++ and Java, and exploring open-source projects.
 - 💼 I’m looking to collaborate on projects related to web development, digital marketing, and software engineering, especially those focused on problem-solving and impactful tech solutions.
 - 📫 Reach me at: [alirazasadaq6@gmail.com] or connect with me on [https://www.linkedin.com/in/alirazasadaq/].
