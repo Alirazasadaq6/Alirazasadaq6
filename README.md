@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @AliRaza! I’m a passionate software engineer with a background in web development, digital marketing, and Android development.
-- 👀 I’m interested in developing innovative solutions in tech and am particularly excited about opportunities in Android development and smart technology.
-- 🌱 I’m currently learning advanced computing, UX design, and IT project and programs as part of my MSc at the University of Central Lancashire. I’m also improving my skills in C++ and Java, and exploring open-source projects.
-- 💼 I’m looking to collaborate on projects related to web development, digital marketing, and software engineering, especially those focused on problem-solving and impactful tech solutions.
-- 📫 Reach me at: [alirazasadaq6@gmail.com] or connect with me on [https://www.linkedin.com/in/alirazasadaq/].
-- ⚡ Fun fact: I’ve combined my tech skills with creativity in resin art, crafting unique items like personalized keychains and art pieces!
+👋 Hi, I’m @AliRaza!
+I’m a software engineer with a background in web development, digital marketing, and Android development.
 
-<!---
-Alirazasadaq6/Alirazasadaq6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about developing innovative tech solutions, with a focus on Machine Learning and LiDAR technology for my future projects.
+
+🌱 I’m currently pursuing an MSc in Computing at the University of Central Lancashire, focusing on Machine Learning and exploring LiDAR technology.
+
+💼 I’m looking to collaborate on projects related to Machine Learning and LiDAR, especially those focused on solving real-world problems and creating impactful tech solutions.
+
+📫 Reach me at: [alirazasadaq6@gmail.com] or connect with me on LinkedIn.
+
+⚡ Fun fact: I combine my tech skills with creativity by working on resin art, crafting unique items like personalized keychains and art pieces!
